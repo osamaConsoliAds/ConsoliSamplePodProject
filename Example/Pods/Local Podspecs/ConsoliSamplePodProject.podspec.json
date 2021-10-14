@@ -1,0 +1,22 @@
+{
+  "name": "ConsoliSamplePodProject",
+  "version": "0.1.0",
+  "summary": "A short description of ConsoliSamplePodProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Osama Nadeem/ConsoliSamplePodProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Osama Nadeem": "osama.nadeem@consoliads.com"
+  },
+  "source": {
+    "git": "https://github.com/Osama Nadeem/ConsoliSamplePodProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ConsoliSamplePodProject/Classes/**/*"
+}

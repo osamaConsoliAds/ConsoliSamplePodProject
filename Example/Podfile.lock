@@ -1,0 +1,27 @@
+PODS:
+  - ConsoliSamplePodProject (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - ConsoliSamplePodProject (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  ConsoliSamplePodProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConsoliSamplePodProject: c95962c18406a0ba3f03d1089b95c75e36be0d35
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 16190579943542965b9037862818eef4b4bb1eae
+
+COCOAPODS: 1.10.1
